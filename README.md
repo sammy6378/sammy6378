@@ -20,6 +20,11 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+<div align="center">
+  <img src="![sam dev](https://github.com/sammy6378/sammy6378/assets/143026733/df9867da-1479-4ccb-a25c-491c60b580c1)
+" width="600" height="300"/>
+</div>
+
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
