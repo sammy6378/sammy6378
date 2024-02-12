@@ -20,8 +20,10 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=sammy6378)](https://github.com/anuraghazra/github-readme-stats)
+
 <div align="center">
-  <img src="https://th.bing.com/th/id/OIG3.SqVVYxVhHKyhzFNcC5C.?w=270&h=270&c=6&r=0&o=5&dpr=1.3&pid=ImgGn" width="600" height="500"/>
+  <img src="https://th.bing.com/th/id/OIG3.SqVVYxVhHKyhzFNcC5C.?w=270&h=270&c=6&r=0&o=5&dpr=1.3&pid=ImgGn" width="500" height="500"/>
 </div>
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
