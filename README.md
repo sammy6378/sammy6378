@@ -32,7 +32,7 @@
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sammy6378)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='35' color='blue'>](https://www.linkedin.com/in/https://www.linkedin.com/in/samuel-in-tech/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='35' color='blue'>](https://www.facebook.com/https://facebook.com/west%20scrip/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='35' color='gold'>](https://www.instagram.com/https://www.instagram.com/west_salvadox//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='35' color='silver'>](https://sammy6378.github.io/portfolio-website/)  
 
-<div style="display: flex; justify-content: space-around; align-items: center;">
+<div style="display: flex; justify-content: space-around; align-items: center; flex-direction: column;">
     <div style="text-align: center;">
         <a href="https://github.com/sammy6378">
             <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40' style='color: black;'>
