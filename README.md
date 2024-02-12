@@ -5,21 +5,6 @@
   I'm Samuel A Web Developer.
 </h1>
 
-
- <div id="header" align="center">
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-</div>
-<div id="badges" align = "center">
-  <a href="https://www.linkedin.com/in/samuel-mwangi-scrip/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
-  </a>
-  <a href="https://www.instagram.com/west_salvadox/">
-    <img src="https://img.shields.io/badge/Instagram-gold?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
-  </a>
-</div>
 <div id="image" align="center"><img src="https://komarev.com/ghpvc/?username=sammy6378&style=flat-square&color=blue" alt=""/></div>
 
 ## Skills :
@@ -29,24 +14,6 @@
 
 
 ## Social :
-
-<div>
-  <a href="https://github.com/sammy6378">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='30'>
-  </a>&nbsp; 
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/samuel-in-tech/">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='30' style='color: blue;'>
-  </a>&nbsp;
-  <a href="https://www.facebook.com/https://facebook.com/west%20scrip/">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='30' style='color: blue;'>
-  </a>&nbsp;  
-  <a href="https://www.instagram.com/https://www.instagram.com/west_salvadox//">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='30' style='color: gold;'>
-  </a>&nbsp; 
-  <a href="https://sammy6378.github.io/portfolio-website/">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30' style='color: silver;'>
-  </a>&nbsp; 
-</div>
 
 <div id="badges" align = "center">
   <a href="https://www.linkedin.com/in/samuel-mwangi-scrip/">
