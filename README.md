@@ -30,7 +30,7 @@
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
    <a href="https://sammy6378.github.io/portfolio-website/">
-    <img src="https://img.shields.io/badge/Cloud-green?style=for-the-badge&logo=website&logoColor=white" alt="website Badge"/>
+    <img src="https://img.shields.io/badge/Website-green?style=for-the-badge&logo=website&logoColor=white" alt="website Badge"/>
   </a>
 </div>
 
