@@ -21,7 +21,7 @@
 </h1>
 
 <div align='center'>
-<img src ="![banner](https://github.com/sammy6378/sammy6378/assets/143026733/6ae25cee-b415-4ab6-b443-25b51d5dce7a)" width='250px'/> 
+<img src ="![banner](https://github.com/sammy6378/sammy6378/assets/143026733/fdc96f1e-9d9a-48a2-bf71-2e5c76614c2a)" width='250px'/> 
 </div>
 
 
