@@ -20,9 +20,9 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-<div align='center'>
-<img src ="![banner](https://github.com/sammy6378/sammy6378/assets/143026733/fdc96f1e-9d9a-48a2-bf71-2e5c76614c2a)" width='250px'/> 
-</div>
+
+![banner](https://github.com/sammy6378/sammy6378/assets/143026733/fdc96f1e-9d9a-48a2-bf71-2e5c76614c2a) 
+
 
 
 
