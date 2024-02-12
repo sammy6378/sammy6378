@@ -34,12 +34,6 @@ Skills: Front-End Developer
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sammy6378)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/samuel-in-tech/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://facebook.com/west%20scrip/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/west_salvadox//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sammy6378.github.io/portfolio-website/)  
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammy6378)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=sammy6378&show_icons=true)  
-
-![GitHub streak stats](https://streak-stats.demolab.com/?user=sammy6378)  
-
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Technical Content Writing.
