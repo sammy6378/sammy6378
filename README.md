@@ -48,6 +48,27 @@
   </a>&nbsp; 
 </div>
 
+<div id="badges" align = "center">
+  <a href="https://www.linkedin.com/in/samuel-mwangi-scrip/">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+  </a>
+  <a href="https://www.instagram.com/west_salvadox/">
+    <img src="https://img.shields.io/badge/Instagram-gold?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
+  </a>
+  <a href="your-twitter-URL">
+    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  </a>
+   <a href="https://www.instagram.com/west_salvadox/">
+    <img src="https://img.shields.io/badge/Facebook-gold?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+  </a>
+   <a href="https://github.com/sammy6378">
+    <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
+  </a>
+   <a href="https://sammy6378.github.io/portfolio-website/">
+    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30' style='color: silver;'>
+  </a>
+</div>
+
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
