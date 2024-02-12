@@ -1,6 +1,3 @@
-<div align="center" id="header">
- <img src="https://github.com/sammy6378/sammy6378/blob/main/banner.png" width="500px">
-</div>
 
 <h1 align="center">
   hey there
@@ -13,7 +10,7 @@
 🛠️ In addition to front-end technologies, I'm proficient in various frameworks and libraries such as React.js  allowing me to build dynamic and responsive web applications.
 
 
- <div  align="center">
+ <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align = "center">
