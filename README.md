@@ -9,6 +9,15 @@
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   </div>
 
+  ## About Me :
+  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+
+- :seedling: Exploring Technical Content Writing.
+
+- :zap: In my free time, I solve problems and build projects to enhance my coding skills.
+
+- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-samuel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-mwangi-scrip/)
+
 ## Skills :
 💻 I specialize in front-end development, where I leverage my expertise in HTML, CSS, and JavaScript to bring designs to life with pixel-perfect precision and seamless interactivity.
 
@@ -39,13 +48,7 @@
 </div>
 
 
-- :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
-
-- :zap: In my free time, I solve problems and build projects to enhance my coding skills.
-
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-samuel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-mwangi-scrip/)
 
 ## :hammer_and_wrench: Languages and Tools :
 
