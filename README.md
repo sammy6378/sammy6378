@@ -31,19 +31,19 @@
 ## Social :
 
 <div>
-  <a href="https://github.com/sammy6378">
+  <a href="https://github.com/sammy6378" style="text-decoration:none;">
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>
   </a>&nbsp; 
-  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/samuel-in-tech/">
+  <a href="https://www.linkedin.com/in/https://www.linkedin.com/in/samuel-in-tech/" style="text-decoration:none;">
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='35' style='color: blue;'>
   </a>&nbsp;
-  <a href="https://www.facebook.com/https://facebook.com/west%20scrip/">
+  <a href="https://www.facebook.com/https://facebook.com/west%20scrip/" style="text-decoration:none;">
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='35' style='color: blue;'>
   </a>&nbsp;  
-  <a href="https://www.instagram.com/https://www.instagram.com/west_salvadox//">
+  <a href="https://www.instagram.com/https://www.instagram.com/west_salvadox//" style="text-decoration:none;">
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='35' style='color: gold;'>
   </a>&nbsp; 
-  <a href="https://sammy6378.github.io/portfolio-website/">
+  <a href="https://sammy6378.github.io/portfolio-website/" style="text-decoration:none;">
     <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='35' style='color: silver;'>
   </a>&nbsp; 
 </div>
