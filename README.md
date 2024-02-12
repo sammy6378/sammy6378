@@ -17,6 +17,10 @@
 - :zap: In my free time, I solve problems and build projects to enhance my coding skills.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-samuel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-mwangi-scrip/)
+-: : Profile Views: <img src="https://komarev.com/ghpvc/?username=sammy6378&style=flat-square&color=blue" alt=""/> <h1>
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 ## Skills :
 💻 I specialize in front-end development, where I leverage my expertise in HTML, CSS, and JavaScript to bring designs to life with pixel-perfect precision and seamless interactivity.
