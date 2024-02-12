@@ -24,13 +24,13 @@
     <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
   </a>
    <a href="https://www.instagram.com/west_salvadox/">
-    <img src="https://img.shields.io/badge/Facebook-gold?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
   </a>
    <a href="https://github.com/sammy6378">
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
    <a href="https://sammy6378.github.io/portfolio-website/">
-    <img src="https://img.shields.io/badge/Website-green?style=for-the-badge&logo=website&logoColor=white" alt="website Badge"/>
+    <img src="https://img.shields.io/badge/Cloud-green?style=for-the-badge&logo=website&logoColor=white" alt="website Badge"/>
   </a>
 </div>
 
