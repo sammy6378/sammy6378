@@ -5,8 +5,6 @@
   I'm Samuel A Web Developer.
 </h1>
 
-<div id="image" align="center"><img src="https://komarev.com/ghpvc/?username=sammy6378&style=flat-square&color=blue" alt=""/></div>
-
 ## Skills :
 💻 I specialize in front-end development, where I leverage my expertise in HTML, CSS, and JavaScript to bring designs to life with pixel-perfect precision and seamless interactivity.
 
@@ -32,7 +30,7 @@
     <img src="https://img.shields.io/badge/Github-black?style=for-the-badge&logo=github&logoColor=white" alt="Github Badge"/>
   </a>
    <a href="https://sammy6378.github.io/portfolio-website/">
-    <img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='30' style='color: silver;'>
+    <img src="https://img.shields.io/badge/Website-green?style=for-the-badge&logo=website&logoColor=white" alt="website Badge"/>
   </a>
 </div>
 
