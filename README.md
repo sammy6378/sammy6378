@@ -20,7 +20,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-#### Web Developer and Designer
 ![Web Developer and Designer](![banner](https://github.com/sammy6378/sammy6378/assets/143026733/6ae25cee-b415-4ab6-b443-25b51d5dce7a)
 
 
@@ -32,7 +31,7 @@ Skills: Front-End Developer
 
 
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sammy6378)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/https://www.linkedin.com/in/samuel-in-tech/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/https://facebook.com/west%20scrip/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/https://www.instagram.com/west_salvadox//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'>](https://sammy6378.github.io/portfolio-website/)  
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sammy6378)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'color='blue'>](https://www.linkedin.com/in/https://www.linkedin.com/in/samuel-in-tech/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'color='blue'>](https://www.facebook.com/https://facebook.com/west%20scrip/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'color='gold'>](https://www.instagram.com/https://www.instagram.com/west_salvadox//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='40'color='silver'>](https://sammy6378.github.io/portfolio-website/)  
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 
