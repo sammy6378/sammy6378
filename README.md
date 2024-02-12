@@ -21,7 +21,7 @@
 </h1>
 
 <div align="center">
-  <img src="https://www.bing.com/images/create/i-am-sitting-down-and-holding-a-laptop-wearing-a-h/1-65c9d4f1ab364b6cbf67b17e81e2fad9?id=P9KrHMfnWoG%2fv2gYKsn25w%3d%3d&view=detailv2&idpp=genimg&FORM=GCRIDP" width="600" height="300"/>
+  <img src="https://th.bing.com/th/id/OIG3.SqVVYxVhHKyhzFNcC5C.?w=270&h=270&c=6&r=0&o=5&dpr=1.3&pid=ImgGn" width="600" height="300"/>
 </div>
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
