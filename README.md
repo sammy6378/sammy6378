@@ -4,11 +4,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-## Skills :
-💻 I specialize in front-end development, where I leverage my expertise in HTML, CSS, and JavaScript to bring designs to life with pixel-perfect precision and seamless interactivity.
-
-🛠️ In addition to front-end technologies, I'm proficient in various frameworks and libraries such as React.js  allowing me to build dynamic and responsive web applications.
-
 
  <div id="header" align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
@@ -25,6 +20,11 @@
   </a>
 </div>
 <div id="image" align="center"><img src="https://komarev.com/ghpvc/?username=sammy6378&style=flat-square&color=blue" alt=""/></div>
+
+## Skills :
+💻 I specialize in front-end development, where I leverage my expertise in HTML, CSS, and JavaScript to bring designs to life with pixel-perfect precision and seamless interactivity.
+
+🛠️ In addition to front-end technologies, I'm proficient in various frameworks and libraries such as React.js  allowing me to build dynamic and responsive web applications.
 
 
 ### Social :
