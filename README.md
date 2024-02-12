@@ -20,8 +20,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-(![github](![banner](https://github.com/sammy6378/sammy6378/assets/143026733/fdc96f1e-9d9a-48a2-bf71-2e5c76614c2a) ))
-
 
 
 💻 I specialize in front-end development, where I leverage my expertise in HTML, CSS, and JavaScript to bring designs to life with pixel-perfect precision and seamless interactivity.
