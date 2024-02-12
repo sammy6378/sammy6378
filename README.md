@@ -21,7 +21,7 @@
 </h1>
 
 <div align="center">
-  <img src="![sam dev](https://github.com/sammy6378/sammy6378/assets/143026733/df9867da-1479-4ccb-a25c-491c60b580c1)" width="600" height="300"/>
+ ![sam dev](https://github.com/sammy6378/sammy6378/assets/143026733/16137101-3dc5-4b9b-873a-633301153ce5)
 </div>
 
 - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
