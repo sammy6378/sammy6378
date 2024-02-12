@@ -1,6 +1,11 @@
 <div align="center" id="header">
- <img src="https://github.com/sammy6378/sammy6378/blob/main/banner.png" width="400px">
+ <img src="https://github.com/sammy6378/sammy6378/blob/main/banner.png" width="500px">
 </div>
+
+<h1 align="center">
+  hey there
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
 ## Skills :
 💻 I specialize in front-end development, where I leverage my expertise in HTML, CSS, and JavaScript to bring designs to life with pixel-perfect precision and seamless interactivity.
@@ -23,12 +28,6 @@
   </a>
 </div>
 <div id="image" align="center"><img src="https://komarev.com/ghpvc/?username=sammy6378&style=flat-square&color=blue" alt=""/></div>
-
-
-<h1 align="center">
-  hey there
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-</h1>
 
 
 ### Social :
