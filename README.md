@@ -1,9 +1,14 @@
-<div align="center">
+<div align="center" id="header">
  <img src="https://github.com/sammy6378/sammy6378/blob/main/banner.png" width="400px">
 </div>
 
+## Skills :
+💻 I specialize in front-end development, where I leverage my expertise in HTML, CSS, and JavaScript to bring designs to life with pixel-perfect precision and seamless interactivity.
 
- <div id="header" align="center">
+🛠️ In addition to front-end technologies, I'm proficient in various frameworks and libraries such as React.js  allowing me to build dynamic and responsive web applications.
+
+
+ <div  align="center">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
 </div>
 <div id="badges" align = "center">
@@ -25,11 +30,6 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-
-
-💻 I specialize in front-end development, where I leverage my expertise in HTML, CSS, and JavaScript to bring designs to life with pixel-perfect precision and seamless interactivity.
-
-🛠️ In addition to front-end technologies, I'm proficient in various frameworks and libraries such as React.js  allowing me to build dynamic and responsive web applications.
 
 ### Social :
 
