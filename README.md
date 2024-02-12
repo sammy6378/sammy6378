@@ -20,13 +20,14 @@
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
 </h1>
 
-(![banner](https://github.com/sammy6378/sammy6378/assets/143026733/6ae25cee-b415-4ab6-b443-25b51d5dce7a)
+![banner](https://github.com/sammy6378/sammy6378/assets/143026733/6ae25cee-b415-4ab6-b443-25b51d5dce7a)
 
 
 💻 I specialize in front-end development, where I leverage my expertise in HTML, CSS, and JavaScript to bring designs to life with pixel-perfect precision and seamless interactivity.
 
 🛠️ In addition to front-end technologies, I'm proficient in various frameworks and libraries such as React.js  allowing me to build dynamic and responsive web applications.
 
+### :code: Social :
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/sammy6378)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='35' color='blue'>](https://www.linkedin.com/in/https://www.linkedin.com/in/samuel-in-tech/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='35' color='blue'>](https://www.facebook.com/https://facebook.com/west%20scrip/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='35' color='gold'>](https://www.instagram.com/https://www.instagram.com/west_salvadox//)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/icloud.svg' alt='website' height='35' color='silver'>](https://sammy6378.github.io/portfolio-website/)  
 
