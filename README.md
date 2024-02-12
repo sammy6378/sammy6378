@@ -46,6 +46,4 @@
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sammy6378&theme=dark)](https://git.io/streak-stats)
 
-:Languages : <img src="![coding](https://github.com/sammy6378/sammy6378/assets/143026733/61012016-12f0-409e-82c7-d27fbbd02046)"width="100">
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammy6378&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
