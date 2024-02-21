@@ -10,19 +10,14 @@
   </div>
 
   ## About Me :
-  - :telescope: I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
+  - :telescope: I’m a Software Engineer and am contributing to frontend and backend for building web applications.
 
-- :seedling: Exploring Technical Content Writing.
+- :seedling: Exploring Artficial Intelligence and Machine Learning.
 
 - :zap: In my free time, I solve problems and build projects to enhance my coding skills.
 
-- :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-samuel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-mwangi-scrip/)&nbsp;
-- Profile Views : <img src="https://komarev.com/ghpvc/?username=sammy6378&style=flat-square&color=blue" alt=""/>
+- :mailbox: How to reach me: [samuel202mwangi@gmail.com](mailto:samuel202mwangi@gmail.com)
 
-## Skills :
-💻 I specialize in front-end development, where I leverage my expertise in HTML, CSS, and JavaScript to bring designs to life with pixel-perfect precision and seamless interactivity.
-
-🛠️ In addition to front-end technologies, I'm proficient in various frameworks and libraries such as React.js  allowing me to build dynamic and responsive web applications.
 
 
 ## Social :
@@ -60,7 +55,5 @@
 </div>
 
 ## :fire: My Stats :
-
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=sammy6378&theme=dark)](https://git.io/streak-stats)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammy6378&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
