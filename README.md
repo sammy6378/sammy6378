@@ -1,5 +1,5 @@
 <div align="center">
-    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Samuel;This+is..;..my+Github+Profile..;" alt="Typing SVG"/></h1>
+    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=38&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Samuel;This+is..;..my+Github+Profile..;" alt="Typing SVG"/></h1>
     <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
 </div>
   
@@ -7,7 +7,7 @@
 Hello! I'm Samuel, a passionate technology enthusiast with a knack for problem-solving and innovation. Currently pursuing my education in Information Technology, I thrive in the dynamic world of tech where every 
   challenge is an opportunity to learn and grow and with a solid foundation in programming languages like Python and Java, coupled with hands-on experience in web development, database management, and networking 
   and to tackle diverse technical challenges.
-<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRXCNPbRCeMO1xoSfGhZNiu5TSKMNpYk1ldajDhcc7LYHECR2i4pVpEGDHoKoLTOHn5fg&usqp=CAU">
+
 
 <details><summary>Explore More About Me</summary>
  
@@ -24,13 +24,13 @@ Hello! I'm Samuel, a passionate technology enthusiast with a knack for problem-s
 ## 🌐 Social :
 
 <div id="badges">
-  <a href="https://www.linkedin.com/in/samuel-mwangi-scrip/">
+  <a href="https://www.linkedin.com/in/samuel-mwangi-scrip/" text-decoration="none">
    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn">
   </a>
-  <a href="twitter URL">
+  <a href="twitter URL" text-decoration="none">
     <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter">
   </a>
-   <a href="https://www.instagram.com/west_salvadox/">
+   <a href="https://www.instagram.com/west_salvadox/" text-decoration="none">
     <img src="https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram">
   </a>
 </div>
