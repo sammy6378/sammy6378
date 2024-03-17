@@ -1,12 +1,11 @@
-
+ <div id="header">
 <h1>
   Hey there 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  I'm Samuel.  <div id="header" align="right">
+  I'm Samuel. 
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
-  </div>
 </h1>
-
+  </div>
   ## About Me :
   - :telescope: I’m a Software Engineer and am contributing to frontend and backend for building web applications.
 
