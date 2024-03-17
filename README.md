@@ -1,5 +1,5 @@
 
-<h1 align="center">
+<h1>
   Hey there 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   I'm Samuel.
@@ -24,7 +24,7 @@
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/samuel-mwangi-scrip/">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
+   <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn">
   </a>
   <a href="https://www.instagram.com/west_salvadox/">
     <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
