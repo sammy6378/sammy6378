@@ -1,16 +1,14 @@
-<h1>
-  Hey there 
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  I'm Samuel. 
-<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" align= "right"/> -->
-</h1>
+<div align="center">
+    <h1><img src="https://readme-typing-svg.herokuapp.com?font=Jetbrains+mono&size=40&duration=3000&color=33FF33&center=true&vCenter=true&width=435&lines=Hey..+I'm+Samuel;This+is..;..my+Github+Profile..;" alt="Typing SVG"/></h1>
+    <p><img src="termina-gh.gif" alt="Terminal GH GIF" /></p>
+</div>
   
-  ## About Me :
+  ## 🚀 About Me :
 Hello! I'm Samuel, a passionate technology enthusiast with a knack for problem-solving and innovation. Currently pursuing my education in Information Technology, I thrive in the dynamic world of tech where every 
   challenge is an opportunity to learn and grow and with a solid foundation in programming languages like Python and Java, coupled with hands-on experience in web development, database management, and networking 
   and to tackle diverse technical challenges.
 
-<details><summary>Explore More</summary>
+<details><summary>Explore More About Me</summary>
  
 - :telescope: I’m a Software Engineer and am contributing to frontend and backend for building web applications.
 
@@ -22,7 +20,7 @@ Hello! I'm Samuel, a passionate technology enthusiast with a knack for problem-s
   
 </details>
 
-## Social :
+## 🌐 Social :
 
 <div id="badges">
   <a href="https://www.linkedin.com/in/samuel-mwangi-scrip/">
