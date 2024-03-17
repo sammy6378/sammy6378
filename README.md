@@ -21,22 +21,15 @@ Hello! I'm Samuel, a passionate technology enthusiast with a knack for problem-s
   
 </details>
 
-## 🌐 Social :
+## 🌐 Connect with me :
 
-<div id="badges">
-  <a href="https://www.linkedin.com/in/samuel-mwangi-scrip/" text-decoration="none">
-   <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn">
-  </a>
-  <a href="twitter URL" text-decoration="none">
-    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter">
-  </a>
-   <a href="https://www.instagram.com/west_salvadox/" text-decoration="none">
-    <img src="https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram">
-  </a>
-</div>
-
-
-
+<p align="left">
+<a href="https://dev.to/sammy6378" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sammy_in_tech" height="30" width="40" /></a>
+<a href="https://twitter.com/sammy_in_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sammy_in_tech" height="30" width="40" /></a>
+<a href="https://www.linkedin.com/in/samuel-mwangi-scrip/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sammy_in_tech" height="30" width="40" /></a>
+<a href="https://www.facebook.com/profile.php?id=100087343099979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sammy_in_tech" height="30" width="40" /></a>
+<a href="https://www.instagram.com/west_salvadox/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sammy_in_tech" height="30" width="40" /></a>
+</p>
 
 ## :hammer_and_wrench: Languages and Tools :
 
