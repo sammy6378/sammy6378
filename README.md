@@ -1,9 +1,9 @@
- <div id="header">
+<h1>
   Hey there 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
   I'm Samuel. 
-  <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" align= "right"/>
-  </div>
+<!--   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100" align= "right"/> -->
+</h1>
   
   ## About Me :
 Hello! I'm Samuel, a passionate technology enthusiast with a knack for problem-solving and innovation. Currently pursuing my education in Information Technology, I thrive in the dynamic world of tech where every 
@@ -11,14 +11,15 @@ Hello! I'm Samuel, a passionate technology enthusiast with a knack for problem-s
   and to tackle diverse technical challenges.
 
 <details><summary>Explore More</summary>
-  - :telescope: I’m a Software Engineer and am contributing to frontend and backend for building web applications.
+ 
+- :telescope: I’m a Software Engineer and am contributing to frontend and backend for building web applications.
 
 - :seedling: Exploring Artficial Intelligence and Machine Learning.
 
 - :zap: In my free time, I solve problems and build projects to enhance my coding skills.
 
 - :mailbox: How to reach me: [samuel202mwangi@gmail.com](mailto:samuel202mwangi@gmail.com)
-- 
+  
 </details>
 
 ## Social :
