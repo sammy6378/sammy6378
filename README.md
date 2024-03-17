@@ -7,6 +7,7 @@
 Hello! I'm Samuel, a passionate technology enthusiast with a knack for problem-solving and innovation. Currently pursuing my education in Information Technology, I thrive in the dynamic world of tech where every 
   challenge is an opportunity to learn and grow and with a solid foundation in programming languages like Python and Java, coupled with hands-on experience in web development, database management, and networking 
   and to tackle diverse technical challenges.
+<img align="right" alt="Coding" width="400" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSRXCNPbRCeMO1xoSfGhZNiu5TSKMNpYk1ldajDhcc7LYHECR2i4pVpEGDHoKoLTOHn5fg&usqp=CAU">
 
 <details><summary>Explore More About Me</summary>
  
