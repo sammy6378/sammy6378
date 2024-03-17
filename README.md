@@ -2,12 +2,10 @@
 <h1>
   Hey there 
   <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
-  I'm Samuel.
-</h1>
-
-  <div id="header" align="center">
+  I'm Samuel.  <div id="header" align="right">
   <img src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif" width="100"/>
   </div>
+</h1>
 
   ## About Me :
   - :telescope: I’m a Software Engineer and am contributing to frontend and backend for building web applications.
@@ -26,14 +24,11 @@
   <a href="https://www.linkedin.com/in/samuel-mwangi-scrip/">
    <img src="https://img.shields.io/badge/-LinkedIn-0e76a8?style=plastic&logo=linkedIn">
   </a>
-  <a href="https://www.instagram.com/west_salvadox/">
-    <img src="https://img.shields.io/badge/Instagram-blue?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram Badge"/>
-  </a>
-  <a href="your-twitter-URL">
-    <img src="https://img.shields.io/badge/Twitter-blue?style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter Badge"/>
+  <a href="twitter URL">
+    <img src="https://img.shields.io/badge/-Twitter-1DA1F2?style=plastic&logo=Twitter">
   </a>
    <a href="https://www.instagram.com/west_salvadox/">
-    <img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook Badge"/>
+    <img src="https://img.shields.io/badge/-Instagram-833AB4?style=plastic&logo=Instagram">
   </a>
 </div>
 
