@@ -8,7 +8,7 @@ Hello! I'm Samuel, a passionate technology enthusiast with a knack for problem-s
   challenge is an opportunity to learn and grow and with a solid foundation in programming languages like Python and Java, coupled with hands-on experience in web development, database management, and networking 
   and to tackle diverse technical challenges.
 
-<img src="https://github.com/sammy6378/sammy6378/assets/143026733/aee0a29e-0aad-41bb-b7e6-428901cd8328" align="right" width="100px"/>
+
 
 <details><summary>Explore More About Me</summary>
  
