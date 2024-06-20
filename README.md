@@ -49,10 +49,3 @@ Hello! I'm Samuel, a passionate technology enthusiast with a knack for problem-s
 ## :fire: My Stats :
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sammy6378&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
-
-<style>
-  body {
-    -webkit-user-select: none;
-  }
-</style>
-
