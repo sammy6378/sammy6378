@@ -18,7 +18,7 @@ Hello! I'm Samuel, a passionate technology enthusiast with a knack for problem-s
 
 - :zap: In my free time, I solve problems and build projects to enhance my coding skills.
 
-- :mailbox: How to reach me: [samuel202mwangi@gmail.com](mailto:samuel202mwangi@gmail.com)
+- :mailbox: How to reach me: [samuel.developer202@gmail.com](mailto:samuel.developer202@gmail.com)
   
 </details>
 
@@ -26,10 +26,8 @@ Hello! I'm Samuel, a passionate technology enthusiast with a knack for problem-s
 
 <p align="left">
 <a href="https://dev.to/sammy6378" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="sammy_in_tech" height="30" width="40" /></a>
-<a href="https://twitter.com/sammy_in_tech" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sammy_in_tech" height="30" width="40" /></a>
+<a href="https://x.com/west_Scrip" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="sammy_in_tech" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/samuel-mwangi-scrip/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="sammy_in_tech" height="30" width="40" /></a>
-<a href="https://www.facebook.com/profile.php?id=100087343099979" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="sammy_in_tech" height="30" width="40" /></a>
-<a href="https://www.instagram.com/west_salvadox/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="sammy_in_tech" height="30" width="40" /></a>
 </p>
 
 ## :hammer_and_wrench: Languages and Tools :
